@@ -54,3 +54,9 @@ console.log(typeof anotherId);
 //        Arrays  =>  object
 //        Function  =>  function
 //        Object  =>  object
+
+// There are two types memory used in JSON.
+// Stack Memory(for Primitive DataType) & Heap Memory(for Non-Primitive DataType)
+
+// In Stack memory they pass copy value of primitive dataType.
+// In Heap memory they pass reference value of Non-primitive dataType.
