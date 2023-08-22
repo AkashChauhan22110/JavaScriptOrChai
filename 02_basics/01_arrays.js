@@ -22,13 +22,13 @@
 // console.log(typeof myArr1);//string
 
 // slice ** Splice
-const myArr = [0, 1, 2, 3, 4, 5];
+// const myArr = [0, 1, 2, 3, 4, 5];
 
 // console.log("A " + myArr);//A 0,1,2,3,4,5
 // const mySlice = myArr.slice(1,3);
 // console.log(mySlice);//[ 1, 2 ]
 
-console.log("B " + myArr);//B 0,1,2,3,4,5
-const mySplice = myArr.splice(1,3);
-console.log(mySplice);//[ 1, 2, 3 ]
-console.log(myArr);//[ 0, 4, 5 ]
+// console.log("B " + myArr);//B 0,1,2,3,4,5
+// const mySplice = myArr.splice(1,3);
+// console.log(mySplice);//[ 1, 2, 3 ]
+// console.log(myArr);//[ 0, 4, 5 ]
