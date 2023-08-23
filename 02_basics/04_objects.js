@@ -30,7 +30,7 @@ tinderUser.isLoggedIn = false;
 
 // const obj1 = { 1:"a", 2:"b", 3:"c", 4:"d"};
 // const obj2 = { 5:"e", 6:"f", 7:"g", 8:"h"};
-// const obj3 = Object.assign({},obj1 , obj2);//{}:paranthese act like a target to store the objects
+// const obj3 = Object.assign({},obj1 , obj2);//{}:curly braces act like a target to store the objects
 // const obj3 ={...obj1,...obj2} //same output with the use of spread operator
 // console.log(obj3);
 // {
