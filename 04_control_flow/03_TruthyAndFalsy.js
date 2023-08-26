@@ -42,8 +42,8 @@
 // const iceTeaPrice = 80;
 // iceTeaPrice <= 80 ? console.log("less than or equal to 80") : console.log("more than 80")/less than 80
 
-const key = 11;
-key <= 10
-  ? console.log("less than or equal to 10")
-  : console.log("greater than 10");
-//greater than 10
+// const key = 11;
+// key <= 10
+//   ? console.log("less than or equal to 10")
+//   : console.log("greater than 10");
+// //greater than 10
