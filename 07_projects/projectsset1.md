@@ -6,7 +6,7 @@
 # Solution code
 
 ## project 1
-
+ 
 ```javascript
 console.log("hitesh")
 const buttons = document.querySelectorAll('.button');
@@ -24,7 +24,7 @@ buttons.forEach(function (button) {
       body.style.backgroundColor = e.target.id;
     }
     if (e.target.id === 'blue') {
-      body.style.backgroundColor = e.target.id;
+      body.style.backgroundColor = e.target.id; 
     }
     if (e.target.id === 'yellow') {
       body.style.backgroundColor = e.target.id;
