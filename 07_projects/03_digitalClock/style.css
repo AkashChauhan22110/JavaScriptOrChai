@@ -38,7 +38,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 30px;
+  gap: 50px;
 }
 .center {
   display: flex;
@@ -52,5 +52,9 @@ body {
   background-color: orange;
   padding: 20px 50px;
   margin-top: 10px;
-  border-radius: 10px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
 }
