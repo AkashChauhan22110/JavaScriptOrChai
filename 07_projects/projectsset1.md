@@ -109,7 +109,7 @@ if (playGame) {
   });
 }
 
-function validateGuess(guess) {
+function validateGuess(guess) { 
   if (isNaN(guess)) {
     alert('PLease enter a valid number');
   } else if (guess < 1) {
