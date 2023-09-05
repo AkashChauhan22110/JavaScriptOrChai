@@ -148,7 +148,7 @@ function displayGuess(guess) {
 }
 
 function displayMessage(message) {
-  lowOrHi.innerHTML = `<h2>${message}</h2>`;
+  lowOrHi.innerHTML = `<h2>${message}</h2>`; 
 }
 
 function endGame() {
